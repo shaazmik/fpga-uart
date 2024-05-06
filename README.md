@@ -9,6 +9,10 @@ UART, или Universal Asynchronous Receiver/Transmitter, - это устрой�
 
 * ```make test``` соберёт все модули и запустит сразу тестовые данные из /cmd/test.txt
 
+### Зависимости
+
+* icarus verilog(iverilog)
+* gtkwave
 
 ## Модули
 
